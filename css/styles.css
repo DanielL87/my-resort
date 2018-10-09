@@ -1,0 +1,39 @@
+h1 {
+  font-size: 150px;
+  
+}
+
+h2 {
+  color: white;
+  font-size: 50px;
+}
+
+body {
+  background-size: contain;
+  background-repeat: no-repeat;
+  color: white;
+}
+/* unvisited link */
+a:link {
+    color: white;
+}
+
+/* visited link */
+a:visited {
+    color: grey;
+}
+
+/* mouse over link */
+a:hover {
+    color: green;
+}
+
+/* selected link */
+a:active {
+    color: blue;
+}
+
+li {
+  font-size: 50px;
+  color:white;
+}
